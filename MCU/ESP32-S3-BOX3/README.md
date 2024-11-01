@@ -20,9 +20,10 @@
 	c.注意代码中cuid改成自己的，如MAC地址，详情见百度相关api说明文档
 
 ***
-**TODOs**:
 
-1.与MPU的通信，by WIFI.
+1.与MPU的通信，by WIFI. # Done
+
+**TODOs**:
 
 2.温湿度检测;
 
