@@ -1,6 +1,8 @@
 # StrawberryBearRobot
 It has little to do with strawberry bear; it's simply a name.
 
+![SRobot](./SRobot.jpg)
+
 **Purpose**: Create a social robot capable of engaging in meaningful interactions with humans.
 
 **Goals**:
